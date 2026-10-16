@@ -1,0 +1,21 @@
+id_contratacao,data_publicacao,orgao,uf,municipio,modalidade,objeto,valor_estimado,fornecedor,cnpj_fornecedor
+PNCP-2025-000101,2025-01-06,Ministério da Saúde,DF,Brasília,Pregão Eletrônico,Aquisição de medicamentos básicos,1250000.00,Distribuidora Alfa Ltda,11.111.111/0001-11
+PNCP-2025-000102,2025-01-06,Universidade Federal Exemplo,MG,Belo Horizonte,Dispensa,Serviço de manutenção predial,89000.00,Construtora Beta ME,22.222.222/0001-22
+PNCP-2025-000103,2025-01-07,Prefeitura Municipal Exemplo,SP,Campinas,Pregão Eletrônico,Aquisição de material de escritório,45300.50,Papelaria Gama Ltda,33.333.333/0001-33
+PNCP-2025-000104,2025-01-07,Tribunal Regional Exemplo,RJ,Rio de Janeiro,Inexigibilidade,Licença de software jurídico,310000.00,Software Delta S.A.,44.444.444/0001-44
+PNCP-2025-000105,2025-01-08,Secretaria Estadual de Educação,BA,Salvador,Pregão Eletrônico,Merenda escolar - gêneros alimentícios,2870000.00,Alimentos Epsilon Ltda,55.555.555/0001-55
+PNCP-2025-000106,2025-01-08,Ministério da Saúde,DF,Brasília,Dispensa,Aquisição emergencial de insumos hospitalares,980000.00,Distribuidora Alfa Ltda,11.111.111/0001-11
+PNCP-2025-000107,2025-01-09,Instituto Federal Exemplo,PR,Curitiba,Concorrência,Obra de ampliação de campus,5400000.00,Construtora Zeta Ltda,66.666.666/0001-66
+PNCP-2025-000108,2025-01-09,Prefeitura Municipal Exemplo,SP,Campinas,Dispensa,Serviço de transporte escolar,152000.00,Transportes Eta ME,77.777.777/0001-77
+PNCP-2025-000109,2025-01-10,Secretaria Estadual de Saúde,RS,Porto Alegre,Pregão Eletrônico,Aquisição de equipamentos de informática,733500.00,Tech Theta Ltda,88.888.888/0001-88
+PNCP-2025-000110,2025-01-10,Universidade Federal Exemplo,MG,Belo Horizonte,Pregão Eletrônico,Material de laboratório,214800.00,Química Iota S.A.,99.999.999/0001-99
+PNCP-2025-000111,2025-01-13,Ministério da Educação,DF,Brasília,Pregão Eletrônico,Aquisição de livros didáticos,4120000.00,Editora Kappa Ltda,10.101.010/0001-10
+PNCP-2025-000112,2025-01-13,Prefeitura Municipal Exemplo,CE,Fortaleza,Dispensa,Locação de veículos,127400.00,Locadora Lambda ME,12.121.212/0001-12
+PNCP-2025-000113,2025-01-14,Tribunal Regional Exemplo,RJ,Rio de Janeiro,Pregão Eletrônico,Serviço de limpeza e conservação,890000.00,Serviços Mi Ltda,13.131.313/0001-13
+PNCP-2025-000114,2025-01-14,Secretaria Estadual de Educação,BA,Salvador,Inexigibilidade,Capacitação de professores,268000.00,Instituto Ni Educação,14.141.414/0001-14
+PNCP-2025-000115,2025-01-15,Instituto Federal Exemplo,PR,Curitiba,Pregão Eletrônico,Aquisição de material de escritório,51200.00,Papelaria Gama Ltda,33.333.333/0001-33
+PNCP-2025-000116,2025-01-15,Ministério da Saúde,DF,Brasília,Pregão Eletrônico,Aquisição de medicamentos básicos,1310000.00,Farma Ômicron S.A.,15.151.515/0001-15
+PNCP-2025-000117,2025-01-16,Prefeitura Municipal Exemplo,SP,Campinas,Pregão Eletrônico,Manutenção de vias públicas,1980000.00,Construtora Beta ME,22.222.222/0001-22
+PNCP-2025-000118,2025-01-16,Secretaria Estadual de Saúde,RS,Porto Alegre,Dispensa,Aquisição de material de escritório,398000.00,Papelaria Pi Ltda,16.161.616/0001-16
+PNCP-2025-000119,2025-01-17,Universidade Federal Exemplo,MG,Belo Horizonte,Concorrência,Reforma de biblioteca,3250000.00,Construtora Zeta Ltda,66.666.666/0001-66
+PNCP-2025-000120,2025-01-17,Ministério da Educação,DF,Brasília,Dispensa,Serviço de consultoria em TI,745000.00,Tech Theta Ltda,88.888.888/0001-88

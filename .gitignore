@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+Data/raw/*
+Data/interim/*
+Data/processed/*
+!Data/**/.gitkeep
+!Data/raw/noticias_cgu.csv
+!Data/raw/noticias_cgu.txt
+!Data/processed/noticias_limpas.csv
+!Data/processed/estatisticas_noticias.csv
+!Data/processed/corpus_llm.jsonl
+.streamlit/secrets.toml

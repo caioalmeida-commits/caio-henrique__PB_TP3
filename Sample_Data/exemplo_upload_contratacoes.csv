@@ -1,0 +1,6 @@
+id_contratacao,data_publicacao,orgao,uf,municipio,modalidade,objeto,valor_estimado,fornecedor,cnpj_fornecedor
+PNCP-2025-000201,2025-02-03,Secretaria de Saúde do DF,DF,Brasília,Pregão Eletrônico,Aquisição de equipamentos hospitalares,980000.00,MedEquip Distribuidora Ltda,55.555.555/0001-55
+PNCP-2025-000202,2025-02-04,Prefeitura Municipal Exemplo,SP,Campinas,Dispensa,Locação de veículos para transporte escolar,132000.00,Transportes Ômega Ltda,66.666.666/0001-66
+PNCP-2025-000203,2025-02-05,Ministério da Educação,DF,Brasília,Pregão Eletrônico,Aquisição de material didático,410500.00,Editora Sigma S.A.,77.777.777/0001-77
+PNCP-2025-000204,2025-02-06,Tribunal Regional Exemplo,RJ,Rio de Janeiro,Inexigibilidade,Serviço de consultoria jurídica especializada,275000.00,Consultoria Zeta Ltda,88.888.888/0001-88
+PNCP-2025-000205,2025-02-07,Universidade Federal Exemplo,MG,Belo Horizonte,Pregão Eletrônico,Reforma de laboratório de informática,540000.00,Construtora Beta ME,22.222.222/0001-22
